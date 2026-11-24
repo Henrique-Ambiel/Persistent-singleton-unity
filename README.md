@@ -1,7 +1,9 @@
 # Persistent Singleton — Unity 🎮🔄
 
-\<p align="center">   \<img src="[https://img.shields.io/static/v1?label=Engine&message=Unity&color=black&style=for-the-badge&logo=unity](https://img.shields.io/static/v1?label=Engine\&message=Unity\&color=black\&style=for-the-badge\&logo=unity)"/>   \<img src="[https://img.shields.io/static/v1?label=Linguagem&message=C%23&color=blue&style=for-the-badge&logo=csharp](https://img.shields.io/static/v1?label=Linguagem\&message=C%23\&color=blue\&style=for-the-badge\&logo=csharp)"/>   \<img src="[https://img.shields.io/static/v1?label=Design%20Pattern&message=Singleton&color=purple&style=for-the-badge](https://img.shields.io/static/v1?label=Design%20Pattern\&message=Singleton\&color=purple\&style=for-the-badge)"/>   \<img src="[https://img.shields.io/static/v1?label=Status&message=Conclu%C3%ADdo&color=green&style=for-the-badge](https://img.shields.io/static/v1?label=Status\&message=Conclu%C3%ADdo\&color=green\&style=for-the-badge)"/> \</p>
-
+![Unity](https://img.shields.io/badge/Engine-Unity-black?style=for-the-badge&logo=unity)
+![C%23](https://img.shields.io/badge/Linguagem-C%23-blue?style=for-the-badge&logo=csharp)
+![Singleton](https://img.shields.io/badge/Design_Pattern-Singleton-purple?style=for-the-badge)
+![Concluído](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green?style=for-the-badge)
 > Status do Projeto: ✔️ Concluído
 
 ### Tópicos
