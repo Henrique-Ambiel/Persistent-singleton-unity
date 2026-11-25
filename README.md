@@ -114,7 +114,3 @@ Este projeto foi desenvolvido como parte das atividades da disciplina de Estudos
 O objetivo foi aprofundar conhecimentos sobre padrões de design aplicados ao desenvolvimento de jogos, explorando técnicas de gerenciamento de instâncias, persistência de objetos e organização da arquitetura de sistemas na Unity.
 
 ---
-
-## Licença
-
-Licença não especificada.
